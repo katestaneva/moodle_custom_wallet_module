@@ -1,0 +1,1 @@
+# moodle_custom_wallet_module
